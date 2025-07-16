@@ -14,8 +14,6 @@ For more information on this project, please check out our interim slide deck pr
 If you're interested in learning more or have any questions, here are the cool people that worked on this project! (Note, the summer team worked primary on this pipeline a bit more than the spring team, so if you have any more technical questions, the summer team would be your best point of contact!)
 
   
-<!--- This is the format for inserting your contact links
-[Name](https://www.linkaddress.com) ---->
 Academic Advisor: [Charlotte Chang](https://chang.eco/)
 
 TNC Liaison: [Susan Cook-Patton](https://www.nature.org/en-us/about-us/who-we-are/our-people/susan-cook-patton/) 
@@ -40,7 +38,6 @@ Spring team: Tian Xie, Alicia Luo, Nicole Ge, Kimberly Silverman
 
 ## FAQ
 **Does the pipeline use or include data from tables and figures?** - At this time, our pipeline is able to extract table information, but we're not yet utilizing data from figures. We hope to do so in the future.   
-## 
 
 ## Acknowledgments
   
